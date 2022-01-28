@@ -32,7 +32,7 @@ for($i=0;$i<count($lista);$i++) {
 ?>
 </td>
  <td>
-
+chorizito
 	<?php 
     echo $lista[$i]->getNombre();
 ?>
